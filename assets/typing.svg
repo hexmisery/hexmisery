@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="50" viewBox="0 0 620 50">
+<title>Кодер / Кибербезопасность</title>
+<defs><clipPath id="reveal"><rect x="0" y="0" width="620" height="50"><animate attributeName="width" values="0;620;620;0" keyTimes="0;0.55;0.85;1" dur="5s" repeatCount="indefinite"/></rect></clipPath></defs>
+<g clip-path="url(#reveal)" fill="#ffffff" font-family="Consolas,monospace" font-size="20" font-weight="600" text-anchor="middle">
+<text x="310" y="32" opacity="1">Кодер / Python и JavaScript<animate attributeName="opacity" values="1;0;0" keyTimes="0;0.5;1" dur="10s" calcMode="discrete" repeatCount="indefinite"/></text>
+<text x="310" y="32" opacity="0">Кибербезопасность<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.5;1" dur="10s" calcMode="discrete" repeatCount="indefinite"/></text>
+</g></svg>
