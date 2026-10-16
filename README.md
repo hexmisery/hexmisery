@@ -31,6 +31,11 @@
 <img src="https://img.shields.io/badge/Web%20Security-555d66?style=flat-square" alt="Web Security" /> <img src="https://img.shields.io/badge/OSINT-555d66?style=flat-square" alt="OSINT" /> <img src="https://img.shields.io/badge/Bug%20Hunting-555d66?style=flat-square" alt="Bug Hunting" /> <img src="https://img.shields.io/badge/PENTEST-555d66?style=flat-square" alt="PENTEST" />
 </p>
 
+### Проекты
+
+- [hexlock](https://github.com/hexmisery/hexlock) · Менеджер паролей для Windows.
+- [Сайт](https://hexmisery.github.io/-/) · Боты, Mini Apps, сайты и скрипты.
+
 ### `❯ github --stats`
 
 <p align="center">
