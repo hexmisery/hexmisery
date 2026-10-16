@@ -33,8 +33,8 @@
 
 ### Мои работы
 
-- [hexlock](https://github.com/hexmisery/hexlock) · Менеджер паролей для Windows.
-- [Сайт](https://hexmisery.github.io/-/) · обо мне
+- [hexlock](https://github.com/hexmisery/hexlock)
+- [обо мне](https://hexmisery.github.io/-/)
 - [kzfaker.github.io/bio](https://kzfaker.github.io/bio/)
 - [Слезомер](https://t.me/slezomer_bot)
 
