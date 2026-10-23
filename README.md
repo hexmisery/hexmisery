@@ -2,10 +2,10 @@
   <img src="./assets/ocean.gif" width="480" alt="Море" />
 </p>
 
-<h1 align="center">hexmisery</h1>
+<h1 align="center">hexm1sery</h1>
 
 <p align="center">
-  <a href="https://t.me/hexmisery"><img src="https://img.shields.io/badge/TELEGRAM-555d66?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="TELEGRAM" /></a>
+  <a href="https://t.me/hexm1sery"><img src="https://img.shields.io/badge/TELEGRAM-555d66?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="TELEGRAM" /></a>
 </p>
 
 <p align="center">
@@ -55,4 +55,4 @@
 
 ---
 
-<p align="center"><a href="https://t.me/hexmisery"><img src="https://img.shields.io/badge/НАПИСАТЬ-555d66?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Написать" /></a></p>
+<p align="center"><a href="https://t.me/hexm1sery"><img src="https://img.shields.io/badge/НАПИСАТЬ-555d66?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Написать" /></a></p>
